@@ -56,3 +56,4 @@ buck-out/
 *.jsbundle
 
 Getting Started with Firestore and React Native.md
+.env
